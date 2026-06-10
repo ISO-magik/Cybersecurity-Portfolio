@@ -15,7 +15,7 @@ Welcome to my cybersecurity portfolio. This repository documents my journey into
 ---
 
 ## 📚 Repository Structure
-- **notes/** — Study notes and cheat sheets  
+- **notes/** — Study notes and cheat sheets  (Obsidian)
 - **tryhackme/** — Write-ups and walkthroughs  
 - **scripts/** — Tools and automation I've built  
 - **tools/** — Tool-specific notes and examples  
@@ -24,7 +24,7 @@ Welcome to my cybersecurity portfolio. This repository documents my journey into
 ---
 
 ## 🎯 Current Goals
-- Complete Nucamp Ethical Hacking  
+- Complete Nucamp Ethical Hacking  (COMPLETED)
 - Finish TryHackMe Jr Penetration Tester  
 - Build 3–5 professional write-ups  
 - Prepare for eJPT certification  
