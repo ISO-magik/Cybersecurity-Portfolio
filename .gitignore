@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- Wordlists & Sensitive Files ---
+wordlists/
+*.lst
+*.dic
+
+# --- Recon Output ---
+nmap/*.xml
+nmap/*.gnmap
+nmap/*.nmap
+recon/
+loot/
+captures/
+*.pcap
+*.pcapng
+
+# --- Credentials ---
+*.key
+*.pem
+*.crt
+*.creds
+secrets/
+tokens/
+
+# --- Logs ---
+*.log
+*.tmp
+*.out
