@@ -1,2 +1,24 @@
-# Cybersecurity-Portfolio
-A structured cybersecurity portfolio showcasing my hands‑on work in ethical hacking, penetration testing, and security fundamentals. Includes notes, scripts, TryHackMe write‑ups, tools, and projects as I build skills in network security, web vulnerabilities, privilege escalation, and real‑world attack methodologies
+# Cybersecurity Portfolio
+
+Welcome to my cybersecurity portfolio. This repository documents my journey into ethical hacking, penetration testing, and security engineering. It includes hands-on labs, scripts, notes, methodologies, and write-ups from platforms like TryHackMe and HackTheBox.
+
+## 🔥 Skills I'm Building
+- Network scanning & enumeration
+- Web application security (OWASP Top 10)
+- Linux & Windows privilege escalation
+- Scripting (Python, Bash, PowerShell)
+- Vulnerability analysis & exploitation
+- Reporting & documentation
+
+## 📚 Sections
+- **notes/** — Study notes and cheat sheets
+- **tryhackme/** — Write-ups and walkthroughs
+- **scripts/** — Tools and automation I've built
+- **tools/** — Tool-specific notes and examples
+- **projects/** — Small cybersecurity projects
+
+## 🎯 Current Goals
+- Complete Nucamp Ethical Hacking
+- Finish TryHackMe Jr Penetration Tester
+- Build 3–5 professional write-ups
+- Prepare for eJPT certification
